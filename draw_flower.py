@@ -1,7 +1,3 @@
-#Assignment 1
-#drawflower1 (More complicated flower)
-#Maxim Belioglo
-
 
 import turtle
 
